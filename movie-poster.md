@@ -29,18 +29,18 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+**Project Hail Mary:**  
+- ** Project Hail Mary:**  
+- **Why I chose this movie:** I really like the book, and I think sci-fi movies are really cool.
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  wonder and tension
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:** The wall that separates Rocky from Grace
+- **Why this element:**  This is where the main character first meets an alien, and it's very important.
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
@@ -52,14 +52,14 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
 
 **Composition:**  
-- [ ] Close-up (face/detail)  
+- [ ] Close-up (face/detail)   
 - [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
+- [x] Medium shot (full figure)  
+- [x] Object/symbol centered  
 - [ ] Character collage  
 
 - **Focal point description:**  
-
+The focal point is the middle of the image where some dim light rays meet.
 ---
 
 ## Step 2: AI Generation – First Attempts
@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:** A dark background with a dim light in a closed tunnel with a side view. In the middle there's a transparent hexagon like wall/ boundary separating the tunnel. On one side you can see half of an outstretched arm. The arm is that of a caucasian human adult male and he is wearing a long sleeved blue shirt. On the other side of the boundary there is what seems to be like an arm but is dark brown and made of rocks. Instead of human fingers there are three thick stumps of rock . The light is coming from a flashlight that is not visible but is coming from the top left side of the image. The focal point is the middle of the boundary where you can see the two "hands" reaching for each other from different sides.
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  The arm of the human being is very accurate and the lighting is kind of what I wanted it to be. The side profile of the hands is pretty accurate 
+- **What didn't work:**  IT thought the boundary wasn't what was separating the two arms and the perspective of the tunnel is wrong. Also, the arm of the alien is not accurate because it looks like a human arm made of rocks.
 - **What I'll change for next attempt:**  
-
+I'll be more specific when describing the background and the arm of the alien.
 **Attempt 2:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+A dark background with a dim light  with a side view. In the middle there's a transparent hexagon like wall/ boundary separating the poster into two sides. On one side you can see half of an outstretched arm. The arm is that of a Caucasian human adult male, and he is wearing a space suit. On the other side of the boundary there is what seems to be an arm-like figure. It is not like a human arm, it is a rectangular like rock with three little stumps coming out of the end, it  is dark brown and made of  big rocks. The light is coming from an unknown light source that is not visible but is coming from the top left side of the image. The focal point is the middle of the boundary where you can see the two "hands" reaching for each other from different sides. Make sure it's more zoomed in.
+- **What worked:**  The boundary definitely looks better now and the focal point is better.
+- **What didn't work:** the arm of the alien is really bad and inaccurate.  
+- **What I'll change for next attempt:**  I'll try to describe the arm better so it looks more accurate.
 
 ---
 
