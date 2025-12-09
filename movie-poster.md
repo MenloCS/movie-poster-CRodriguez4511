@@ -134,22 +134,20 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 
 **How did your vision evolve?**  
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
-
+My initial poster did not look like what I had expected it to look like, and the profile was wrong. My final one seems not to want to change the alien arm into what its supposed to be but overall it's kind of what I wanted it to look like.
 
 **What decision are you most proud of that the AI didn't make for you?**  
-
-
+I had the initial idea, and I added some more brightness in the focal point. I also feel like my descriptions were very detailed, and maybe the AI just didn't feel like modifying some of my changes.
 **What would you do differently next time?**  
-
-
+Maybe I would pick something less complicated than an alien arm and maybe I would use a different AI tool.
 ---
 
 ## Final Checklist
 
 Before submitting, make sure your repo contains:
-- [ ] This completed `movie-poster-project.md` file  
-- [ ] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
-- [ ] At least 5 commits showing your progress  
+- [ x] This completed `movie-poster-project.md` file  
+- [ x] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
+- [ x] At least 5 commits showing your progress  
 
 ---
 
