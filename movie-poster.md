@@ -90,19 +90,20 @@ Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+A dark background with a dim light, with a side view. In the middle, there's a big transparent hexagon-like wall/ boundary separating the poster into two sides. This wall reaches the sides of the poster, and it looks more like a force wall than glass or plastic. On one side, you can see half of an outstretched arm. The arm is that of a human adult male, and he is wearing a space suit. On the other side of the boundary, there is what seems to be an arm-like figure. It is not like a human arm; it is a rectangular rock with three little stumps coming out of the end. It is dark brown and made of small rocks. This "alien" arm is smaller, and the hand with three triangular fingers, lacking a thumb. The light is coming from an unknown light source that is not visible, but is coming from the top left side of the image and is slightly bright. The focal point is the middle of the boundary, where you can see the two "hands" reaching for each other from different sides; the rest is dimmed, and there is no other light.
+- **What worked:**  Everything else looks pretty good.
+- **What didn't work:** The arm is really bad. 
+- **What I'll change for next attempt:** 
+I will be clearer with my description of the alien's arm. 
 
 **Attempt 4:**  
 - **My prompt:**  
-
+A dark background with a dim light with a side view. In the middle there's a big transparent hexagon like wall/ boundary separating the poster into two sides. This wall reaches the sides of the poster. On one side you can see half of an outstretched arm. The arm is that of a human adult male, and he is wearing a space suit. On the other side of the boundary there is a limb that looks like it's carved from dark, rugged stone, but moves with the fluid grace of a spider's leg, ending in a surprisingly dexterous three-pronged hand. It is not like a human arm, it is a rectangular like rock with three little stumps coming out of the end, it is dark brown and made of small rocks. The light is coming from an unknown light source that is not visible but is coming from the top left side of the image and is slightly bright. The focal point is the middle of the boundary where you can see the two "hands" reaching for each other from different sides, the rest is dimmed, there is no other light.
 - **What worked:**  
 - **What didn't work:**  
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+My favorite one was the fourth attempt because it looked more accurate even if the alien's arm is still not what it's supposed to look like.
 ---
 
 ## Step 4: Photoshop Modifications
