@@ -31,15 +31,15 @@ Before you open any AI tools, plan your vision. This is your anchor—return to 
 
 **Project Hail Mary:**  
 - ** Project Hail Mary:**  
-- **Why I chose this movie:** I really like the book, and I think sci-fi movies are really cool.
+- **Why I chose this movie:** I really like the book, and sci-fi movies are really cool.
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  wonder and tension
+- **Core emotion:**  wonder and tension, also maybe curiosity
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:** The wall that separates Rocky from Grace
+- **Essential element:** The wall that separates Rocky from Grace. Rocky is the alien and Grace is the astronaut 
 - **Why this element:**  This is where the main character first meets an alien, and it's very important.
 
 **What NOT to Include:**  
@@ -59,7 +59,7 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - [ ] Character collage  
 
 - **Focal point description:**  
-The focal point is the middle of the image where some dim light rays meet.
+The focal point is the middle of the image where some dim light rays meet and where the focus is on.
 ---
 
 ## Step 2: AI Generation – First Attempts
